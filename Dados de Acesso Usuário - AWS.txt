@@ -1,0 +1,5 @@
+URL de login do console:  https://402125332435.signin.aws.amazon.com/console
+
+Nome do usuário: FagnerSaTest
+
+senha: Gs5xL89#
